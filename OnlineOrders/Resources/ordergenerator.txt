@@ -1,0 +1,1 @@
+Accepts the input orders prices, sums them together, adds tax, and then outputs a receipt to the customer. A copy is saved in .../CurrentOrder for employees to review.

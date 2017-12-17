@@ -1,0 +1,1 @@
+Allows users to click on the items they want, and allows it to be processed by other control.

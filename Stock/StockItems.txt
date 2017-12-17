@@ -1,0 +1,4 @@
+Displays current items that are on sale in a 6x6 grid (or a single column on mobile). Can scroll to the "next page", which refreshes the grid with the next 36 items. 
+Search terms and categories can be chosen off of a sidebar, which would refresh the grid with results that match those criteria (also can exlude terms). Each item can be clicked on to see a basic description of the item in a pop-up. 
+
+Items would be dealt with in SQL Database

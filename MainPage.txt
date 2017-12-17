@@ -1,0 +1,1 @@
+Homepage for the website. Clicking on the logo of any page will link back to this page. There is a display that shows the most recent announcements from a file. Current and upcoming sale fliers would have a link to display/download either flier. Links to all other main pages.

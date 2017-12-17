@@ -1,0 +1,5 @@
+Allows users to click on what items they want to order, which is stored and totalled for their receipt after they input their payment information (in-store or online)
+
+A warning will display and prevent the customer from making an order if they are attempting to order an item that requires a minimum preparation time of 24 within that time.
+
+A customer can later review what they ordered, and leave a comment on the item that can be looked at by other users. 

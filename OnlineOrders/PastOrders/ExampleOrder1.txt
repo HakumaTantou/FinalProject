@@ -1,0 +1,49 @@
+Order number: 5048
+---------------------------------------
+STORE CONTACT INFORMATION
+---------------------------------------
+Location: XXX
+Address: XXX
+Phone: (508) XXX-XXXX
+---------------------------------------
+CUSTOMER CONTACT INFORMATION
+---------------------------------------
+First Name: Dxxxx
+Last Name: xxxxxxx
+Address 1:xxxxxxx
+Address 2: xxxxxxx
+City: XXXXX
+State: MA
+ZIP: 02XXX
+Phone: xxxxxxx E-mail: @yahoo.com
+Pick-up on: 01/1/2005 at 01:00 PM
+Comment: 
+---------------------------------------
+ORDER INFORMATION
+---------------------------------------
+1)
+Item: Deluxe Platter
+Size/Type: Large
+Flavor/Other:
+Quantity: 1
+Price: $47.99
+Sub-total: $47.99
+2)
+Item: Classic Fruit Platter
+Size/Type:
+Small Flavor/Other: With Fruit Dip
+Quantity: 1
+Price: $29.99
+Sub-total: $29.99
+3)
+Item: Classic Vegetable Platter
+Size/Type: Large
+Flavor/Other: Ranch Dip
+Quantity: 1
+Price: $26.99
+Sub-total: $26.99
+=======================================
+Total items: 3
+Sub-Total: $104.97
+Tax: $1.89
+Total: $106.86

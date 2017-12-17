@@ -1,0 +1,1 @@
+Provides appearance of the site, and also adds a bar of links on all pages that links to the other pages

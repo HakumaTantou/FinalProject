@@ -1,0 +1,1 @@
+Does whatever is needed to properly run the search engines or toolbars.
